@@ -1,0 +1,66 @@
+body {
+    
+    
+  
+  background-image: url(pen1.jpg);
+
+  
+  
+  background-position: center center;
+  
+ 
+  background-repeat: no-repeat;
+  
+  
+  background-attachment: fixed;
+  
+  
+  background-size: cover;
+  
+
+}
+
+table{
+    
+    font-family:courier;
+}
+
+img{
+  width:100%;
+  height:100%;
+}
+        
+p{
+    font-familly: courier;
+    text-align: center;
+    font-size:16px;
+        }
+        
+Input{
+    button-align: center;        
+    background-color: #ffffff;
+    border: 1;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    font-family: courier;
+    cursor: pointer;
+}
+.button:hover {
+  background-color: White;
+}
+        
+h1{
+    color:black;
+    font-family:courier; 
+    text-align:center;  
+    font-size:250%;
+    
+}
+
+div {
+    font-familly: courier;
+    text-align: center;
+    font-size:19px;
+}
