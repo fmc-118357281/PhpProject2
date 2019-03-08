@@ -70,7 +70,7 @@ $_SESSION['txtTotal'] = $totalValue;
             <input type="button" name="btnCalc" id="btnCalc" onclick="calcSub()" value="Calculate Amount"/>
             <input type="submit" name="btnProceed" id="btnProceed" onclick="" value="Add to Shopping cart"/>
             </br>
-            <input type="button" name="btnBack" id="btnBack" onclick="window.location.href= 'consulting.html'" value="Cancel Purchase"/>
+            <input type="button" name="btnBack" id="btnBack" onclick="window.location.href= 'Consulting.html'" value="Cancel Purchase"/>
             <input type="button" name="btnClear" id="btnClear" onclick="AmountClear()" value="Clear Choice"/>
         </center>
             </form>
