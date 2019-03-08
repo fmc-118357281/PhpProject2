@@ -8,7 +8,7 @@ $_SESSION['txtTotal'] = $totalValue;
     <head>
         <meta charset="utf-8" />
         <title>Ebusiness 1</title>
-        <link rel="stylesheet" href="EBusStyle.css" type="text/css" />
+        <link rel="stylesheet" href="EbusStyle.css" type="text/css" />
         
         
     </head>
@@ -68,7 +68,7 @@ $_SESSION['txtTotal'] = $totalValue;
         <br />
             <center>
             <input type="button" name="btnCalc" id="btnCalc" onclick="calcSub()" value="Calculate Amount"/>
-            <input type="submit" name="btnProceed" id="btnProceed" onclick="window.location.href= 'EBus2.php'" value="Add to Shopping cart"/>
+            <input type="submit" name="btnProceed" id="btnProceed" onclick="" value="Add to Shopping cart"/>
             </br>
             <input type="button" name="btnBack" id="btnBack" onclick="window.location.href= 'Consulting.html'" value="Cancel Purchase"/>
             <input type="button" name="btnClear" id="btnClear" onclick="AmountClear()" value="Clear Choice"/>
