@@ -25,3 +25,11 @@ a{
     
 }
 
+h2{
+  background-color: grey;
+    color:white;
+    font-family:courier; 
+    text-align:center;  
+    font-size:120%;
+    
+}

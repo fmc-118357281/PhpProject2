@@ -21,26 +21,7 @@ $_SESSION['txtEmail'] = $fullEmailValue;
         <link rel="stylesheet" href="EBusStyle.css" type="text/css" />
         <script language="Javascript" type="text/javascript">
             
-    /**only allow alphabet in name text box*/        
-   function onlyAlphabets(e, t) {
-            try {
-                if (window.event) {
-                    var charCode = window.event.keyCode;
-                }
-                else if (e) {
-                    var charCode = e.which;
-                }
-                else { return true; }
-                if ((charCode > 64 && charCode < 91) || (charCode > 96 && charCode < 123))
-                    return true;
-                else
-                    return false;
-            }
-            catch (err) {
-                alert(err.Description);
-            }
-        }
-
+  
    
     </script>
         <div class="form">
