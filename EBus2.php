@@ -18,7 +18,7 @@ $_SESSION['txtEmail'] = $fullEmailValue;
 <html>
     <head>
         <title>eBusiness 2</title>
-        <link rel="stylesheet" href="EbusStyle.css" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="EbusStyle.css" />
         <script language="Javascript" type="text/javascript">
             
   
