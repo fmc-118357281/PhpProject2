@@ -8,7 +8,7 @@ $_SESSION['txtTotal'] = $totalValue;
     <head>
         <meta charset="utf-8" />
         <title>Ebusiness 1</title>
-        <link rel="stylesheet" href="EbusStyle.css" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="EbusStyle.css" />
         
         
     </head>
