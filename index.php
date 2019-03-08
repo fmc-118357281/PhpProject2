@@ -39,10 +39,10 @@
                 </div>
         <div class="rectangle"></div>
         <br></br>
-        <h2><a href ="">Link to Github</a>  
+        <h2><a href ="https://github.com/fmc-118357281/PhpProject2">Link to Github</a>  
             </br>
             </br>
-            <a href ="">Link to Heroku</a></h2>
+            <a href ="https://fmc-118357281.herokuapp.com/">Link to Heroku</a></h2>
         <br></br>
         <br></br>
        
