@@ -31,8 +31,8 @@
                     <p>
                         
                         <a href="CV.html">Curriculum Vitae</a><br></br>
-                        <a href="interests.html">My Interests</a><br></br>
-                        <a href="consulting.html">About Consulting at Tech head Ltd.</a><br></br>
+                        <a href="Interests.html">My Interests</a><br></br>
+                        <a href="Consulting.html">About Consulting at Tech head Ltd.</a><br></br>
                         <a href="EBus1.php">Purchase Services from Tech Head Ltd.</a>
                     </p>
                     
