@@ -25,8 +25,12 @@ echo"<br></br>";
 echo "The total value is: €".$totalValue2.".";
 
 
+
+
 ?>
             </div>
+        
+         <input type="button" name="btnFinish" id="btnFinish" onclick="window.location.href= 'Consulting.html'" value="Finish"/>
 </body>
 </html>
 
